@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="http://outrotomr.com/4/3144603";
+        location.href="https://remainmother.com/sj5vjbqy?key=2d8189280158ecb5da893a062cfbf2ce";
     }
     function goon(){
-        location.href="http://outrotomr.com/4/3144603";
+        location.href="https://remainmother.com/sj5vjbqy?key=2d8189280158ecb5da893a062cfbf2ce";
     }
